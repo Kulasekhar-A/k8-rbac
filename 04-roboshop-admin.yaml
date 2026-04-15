@@ -8,7 +8,7 @@ rules:
   resources: ["*"]
   verbs: ["*"]
 ---
-apiVersion: rbacauthorization.k8.io/v1
+apiVersion: rbac.authorization.k8.io/v1
 kind: ClusterRole
 metadata:
   name: roboshop-cluster-reader
