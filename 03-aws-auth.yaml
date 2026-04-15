@@ -15,7 +15,7 @@ data:
       - roboshop-trainee
       userarn: arn:aws:iam::051674313773:user/john
       username: john
-    - groups
+    - groups:
       - roboshop-trainee
       userarn: arn:aws:iam::051674313773:user/sreeram
       username: sreeram
