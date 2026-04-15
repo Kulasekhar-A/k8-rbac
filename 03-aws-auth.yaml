@@ -9,8 +9,8 @@ data:
   mapUsers: |
     - groups:
       - roboshop-trainee
-      userarn: arn:aws:iam::051674313773:user/suresh
-      username: suresh
+      userarn:arn:aws:iam::051674313773:user/suresh
+      username:suresh
 kind: ConfigMap
 metadata:
   creationTimestamp: "2026-04-15T06:18:14Z"
